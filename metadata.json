@@ -1,0 +1,5 @@
+{
+  "name": "PCB Creepage Pathfinder",
+  "description": "A 2D visual tool to simulate and calculate creepage distances on a PCB using A* pathfinding algorithm.",
+  "requestFramePermissions": []
+}
