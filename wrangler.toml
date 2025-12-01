@@ -1,5 +1,5 @@
-name = "pcb-creepage-pathfinder"
-compatibility_date = "2025-07-08"
+name = "robinproject"
+compatibility_date = "2025-12-01"
 
 [assets]
 directory = "./dist"
